@@ -1,4 +1,4 @@
-README.md 추가
+@snake 게임 만들기
 
 g++ -Werror -std=c++11 -c main.cpp
 
